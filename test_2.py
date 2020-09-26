@@ -1,1 +1,1 @@
-print("这是测试合并分支的")
+print("hello world")
